@@ -1,0 +1,16 @@
+Temperature vs Ice Cream Sales
+==============================
+
+Temperature (°C) | Sales
+15  | 120
+18  | 150
+22  | 200
+25  | 280
+28  | 350
+30  | 420
+32  | 480
+35  | 550
+
+Type: Scatter Plot
+X-axis: Temperature (°C)
+Y-axis: Ice Cream Sales
