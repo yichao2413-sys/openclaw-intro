@@ -1,0 +1,1602 @@
+[
+  {
+    "timestamp": "2026-03-15T00:36:15.477061",
+    "iteration": 1,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:15.612361",
+    "iteration": 2,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:15.746023",
+    "iteration": 3,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:15.881554",
+    "iteration": 4,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.015571",
+    "iteration": 5,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.148084",
+    "iteration": 6,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.282550",
+    "iteration": 7,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.415466",
+    "iteration": 8,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.548662",
+    "iteration": 9,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.680912",
+    "iteration": 10,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.815635",
+    "iteration": 11,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:16.950729",
+    "iteration": 12,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:17.083917",
+    "iteration": 13,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:17.220337",
+    "iteration": 14,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:17.352265",
+    "iteration": 15,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:17.483717",
+    "iteration": 16,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:17.616670",
+    "iteration": 17,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:17.748383",
+    "iteration": 18,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:17.881649",
+    "iteration": 19,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.014695",
+    "iteration": 20,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.148838",
+    "iteration": 21,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.281440",
+    "iteration": 22,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.416397",
+    "iteration": 23,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.548508",
+    "iteration": 24,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.678811",
+    "iteration": 25,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.811350",
+    "iteration": 26,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:18.944535",
+    "iteration": 27,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:19.077562",
+    "iteration": 28,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:19.216354",
+    "iteration": 29,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:19.351344",
+    "iteration": 30,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:19.487060",
+    "iteration": 31,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:19.633851",
+    "iteration": 32,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:19.766949",
+    "iteration": 33,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:19.900623",
+    "iteration": 34,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.033931",
+    "iteration": 35,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.167911",
+    "iteration": 36,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.299619",
+    "iteration": 37,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.434483",
+    "iteration": 38,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.567478",
+    "iteration": 39,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.699802",
+    "iteration": 40,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.833429",
+    "iteration": 41,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:20.964892",
+    "iteration": 42,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:21.100240",
+    "iteration": 43,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:21.232324",
+    "iteration": 44,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:21.364049",
+    "iteration": 45,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:21.496071",
+    "iteration": 46,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:21.628631",
+    "iteration": 47,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:21.761046",
+    "iteration": 48,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:21.893731",
+    "iteration": 49,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.027726",
+    "iteration": 50,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.163306",
+    "iteration": 51,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.296217",
+    "iteration": 52,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.428657",
+    "iteration": 53,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.560917",
+    "iteration": 54,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.694292",
+    "iteration": 55,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.827154",
+    "iteration": 56,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:22.960072",
+    "iteration": 57,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:23.100745",
+    "iteration": 58,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:23.234956",
+    "iteration": 59,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:23.369660",
+    "iteration": 60,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:23.504570",
+    "iteration": 61,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:23.636885",
+    "iteration": 62,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:23.769341",
+    "iteration": 63,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:23.901723",
+    "iteration": 64,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.035546",
+    "iteration": 65,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.166824",
+    "iteration": 66,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.299628",
+    "iteration": 67,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.431164",
+    "iteration": 68,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.563774",
+    "iteration": 69,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.696991",
+    "iteration": 70,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.833345",
+    "iteration": 71,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:24.967959",
+    "iteration": 72,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:25.101613",
+    "iteration": 73,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:25.265038",
+    "iteration": 74,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:25.407651",
+    "iteration": 75,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:25.540900",
+    "iteration": 76,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:25.672759",
+    "iteration": 77,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:25.805346",
+    "iteration": 78,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:25.936719",
+    "iteration": 79,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.068810",
+    "iteration": 80,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.202659",
+    "iteration": 81,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.334749",
+    "iteration": 82,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.465223",
+    "iteration": 83,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.595760",
+    "iteration": 84,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.727190",
+    "iteration": 85,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.861624",
+    "iteration": 86,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:26.995893",
+    "iteration": 87,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:27.131429",
+    "iteration": 88,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:27.265546",
+    "iteration": 89,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:27.404094",
+    "iteration": 90,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:27.538437",
+    "iteration": 91,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:27.673413",
+    "iteration": 92,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:27.811571",
+    "iteration": 93,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:27.948399",
+    "iteration": 94,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:28.092300",
+    "iteration": 95,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:28.228343",
+    "iteration": 96,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:28.369564",
+    "iteration": 97,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:28.502028",
+    "iteration": 98,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:28.634736",
+    "iteration": 99,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:28.768660",
+    "iteration": 100,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:28.905706",
+    "iteration": 101,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.039399",
+    "iteration": 102,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.174907",
+    "iteration": 103,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.306796",
+    "iteration": 104,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.439289",
+    "iteration": 105,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.571848",
+    "iteration": 106,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.706996",
+    "iteration": 107,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.840876",
+    "iteration": 108,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:29.974163",
+    "iteration": 109,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:30.108080",
+    "iteration": 110,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:30.243815",
+    "iteration": 111,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:30.378033",
+    "iteration": 112,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:30.511240",
+    "iteration": 113,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:30.644561",
+    "iteration": 114,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:30.776412",
+    "iteration": 115,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:30.908393",
+    "iteration": 116,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.040684",
+    "iteration": 117,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.178065",
+    "iteration": 118,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.311337",
+    "iteration": 119,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.445252",
+    "iteration": 120,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.580492",
+    "iteration": 121,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.711621",
+    "iteration": 122,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.845348",
+    "iteration": 123,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:31.979972",
+    "iteration": 124,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:32.111980",
+    "iteration": 125,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:32.245306",
+    "iteration": 126,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:32.379442",
+    "iteration": 127,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:32.512836",
+    "iteration": 128,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:32.644945",
+    "iteration": 129,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:32.778070",
+    "iteration": 130,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:32.912629",
+    "iteration": 131,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.044455",
+    "iteration": 132,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.180890",
+    "iteration": 133,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.313398",
+    "iteration": 134,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.446533",
+    "iteration": 135,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.579527",
+    "iteration": 136,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.712048",
+    "iteration": 137,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.846160",
+    "iteration": 138,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:33.982607",
+    "iteration": 139,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:34.115931",
+    "iteration": 140,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:34.253254",
+    "iteration": 141,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:34.386452",
+    "iteration": 142,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:34.523354",
+    "iteration": 143,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:34.667024",
+    "iteration": 144,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:34.799327",
+    "iteration": 145,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:34.931940",
+    "iteration": 146,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.068086",
+    "iteration": 147,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.200777",
+    "iteration": 148,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.332728",
+    "iteration": 149,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.465647",
+    "iteration": 150,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.601249",
+    "iteration": 151,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.735079",
+    "iteration": 152,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.867081",
+    "iteration": 153,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:35.998519",
+    "iteration": 154,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:36.131935",
+    "iteration": 155,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:36.263690",
+    "iteration": 156,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:36.396235",
+    "iteration": 157,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:36.528350",
+    "iteration": 158,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:36.660042",
+    "iteration": 159,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:36.792813",
+    "iteration": 160,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:36.927305",
+    "iteration": 161,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.061750",
+    "iteration": 162,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.199163",
+    "iteration": 163,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.331711",
+    "iteration": 164,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.462670",
+    "iteration": 165,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.595535",
+    "iteration": 166,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.731644",
+    "iteration": 167,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.864934",
+    "iteration": 168,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:37.997069",
+    "iteration": 169,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:38.135842",
+    "iteration": 170,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:38.270850",
+    "iteration": 171,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:38.402232",
+    "iteration": 172,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:38.532504",
+    "iteration": 173,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:38.663745",
+    "iteration": 174,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:38.794997",
+    "iteration": 175,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:38.927273",
+    "iteration": 176,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.062164",
+    "iteration": 177,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.195020",
+    "iteration": 178,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.327809",
+    "iteration": 179,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.462372",
+    "iteration": 180,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.599218",
+    "iteration": 181,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.731252",
+    "iteration": 182,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.864687",
+    "iteration": 183,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:39.997569",
+    "iteration": 184,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:40.131232",
+    "iteration": 185,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:40.264677",
+    "iteration": 186,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:40.396808",
+    "iteration": 187,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:40.528812",
+    "iteration": 188,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:40.660901",
+    "iteration": 189,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:40.795321",
+    "iteration": 190,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:40.930469",
+    "iteration": 191,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.062837",
+    "iteration": 192,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.198993",
+    "iteration": 193,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.331808",
+    "iteration": 194,
+    "optimization": {
+      "type": "documentation",
+      "desc": "完善注释文档"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.463580",
+    "iteration": 195,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.596935",
+    "iteration": 196,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.730531",
+    "iteration": 197,
+    "optimization": {
+      "type": "error_handling",
+      "desc": "增强错误提示"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.865366",
+    "iteration": 198,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:41.998299",
+    "iteration": 199,
+    "optimization": {
+      "type": "code_quality",
+      "desc": "改进代码可读性"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T00:36:42.130708",
+    "iteration": 200,
+    "optimization": {
+      "type": "performance",
+      "desc": "优化数据处理速度"
+    }
+  }
+]
